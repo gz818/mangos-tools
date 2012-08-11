@@ -5,3 +5,5 @@ unofficial servers, by patching out the server redirection (which involves
 the RSA algorithm).
 
 To run it: MaNGOSPatcher.exe Wow.exe (Be sure to back up Wow.exe first!)
+
+Based on SkyFire patcher code
